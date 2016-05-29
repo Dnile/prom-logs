@@ -1,0 +1,5 @@
+--- SIGTRAP {si_signo=SIGTRAP, si_code=0x5, si_pid=12794, si_uid=1004} ---
+--- SIGTRAP {si_signo=SIGTRAP, si_code=SI_KERNEL} ---
+sched_yield()                           = 0
+futex(0x103a610, FUTEX_WAIT, 2, NULL <unfinished ...>
++++ exited with 2 +++
